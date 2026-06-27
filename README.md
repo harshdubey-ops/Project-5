@@ -1,2 +1,2 @@
 # Project-5
-The javascript code that always provide a many 
+The javascript code that always provide a many  functionalities.
